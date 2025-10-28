@@ -78,6 +78,7 @@
   Length is the most critical factor in password strength
 
 # RESULTS :
+![image alt](https://github.com/devyani-oops/Password-Security-Analysis-Project/blob/5936188a1502d2d87e3433b5543d3e107eb75366/Screenshot%202025-10-28%20120928.png)
 ![image alt]()
 ![image alt]()
 ![image alt]()
